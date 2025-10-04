@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 7d23425035be64335a2dbafa793b81ce
+  - enabled: 1
+    path: Assets/Scenes/MadDriver.unity
+    guid: 240bea9510c6f4257857ff354d306494
+  - enabled: 1
+    path: Assets/Scenes/FlyLikeABird.unity
+    guid: ecfd9be2691e74d3c9594c3a018b74df
+  - enabled: 1
+    path: Assets/Scenes/SumoAndBall.unity
+    guid: 4518d04f580b04256b101e7298fbdea7
+  m_configObjects: {}
